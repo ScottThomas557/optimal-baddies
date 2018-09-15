@@ -1,4 +1,4 @@
-# <Recycled Content>
+# &lt;Recycled Content&gt;
 Guild repository for &lt;Recycled Content> on Bleeding Hollow
 
 ## Quick Links
