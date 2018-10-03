@@ -1,12 +1,14 @@
-# &lt;Recycled Content&gt;
-Guild repository for &lt;Recycled Content> on Bleeding Hollow
+# &lt;Optimal Baddies&gt;
+Guild repository for &lt;Optimal Baddies> on Thunderhorn Horde (US)
 
 ## Quick Links
-Discord: https://discord.gg/cvrbhu
+Discord: https://discord.gg/yNAV64
 
-Warcraft Logs: https://www.warcraftlogs.com/guild/id/19663
+Warcraft Logs: https://www.warcraftlogs.com/guild/id/344984
 
-Raider.io: https://raider.io/guilds/us/bleeding-hollow/Recycled%20Content
+Raider.io: https://raider.io/guilds/us/thunderhorn/Optimal%20Baddies
+
+WoWProgress: https://www.wowprogress.com/guild/us/thunderhorn/Optimal+Baddies
 
 ## Raider Links
 
@@ -17,9 +19,9 @@ Loot rules:
 Weekly tasks: 
 
 ## Guild Leadership
-Flux
-Molestor
-Hala
+Kyris
+Dota
+etc
 
 ## Recruitment
 Message people
