@@ -12,7 +12,7 @@ Guild repository for &lt;Optimal Baddies> on Thunderhorn Horde (US)
 
 ## Raider Info
 
-### Raid preperation checklist
+### Raid preparation checklist
 * 60 BFA Potions - Likely Battle Potion of Agi/Int/Str
 * 5 Personal BFA Flasks
 * 20 Personal +55 stat food
