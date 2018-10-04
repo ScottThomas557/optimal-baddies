@@ -1,5 +1,5 @@
 # &lt;Optimal Baddies&gt;
-Guild repository for &lt;Optimal Baddies> on Thunderhorn Horde (US)
+Guild repository for &lt;Optimal Baddies&gt; on Thunderhorn Horde (US)
 
 ## Quick Links
 **Discord**: [https://discord.gg/yNAV64](https://discord.gg/yNAV64)
