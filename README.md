@@ -26,8 +26,8 @@ The goal of OB is to be a competitive raiding guild on the US-Blade’s Edge / U
 * Show up with a positive attitude. We will die a lot, progression is not a cakewalk
 
 ### Raid preparation checklist
-* 60 Battle Potions
-* 5 Personal Flasks
+* 40 Battle Potions
+* 2 Personal Flasks
 * 20 Personal +55 stat food
 * 20 [Battle-Scarred Augment Rune](https://www.wowhead.com/item=160053/battle-scarred-augment-rune)
 * 1 [Vantus Rune: Uldir](https://www.wowhead.com/item=153673/vantus-rune-uldir)
