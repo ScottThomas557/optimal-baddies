@@ -2,13 +2,13 @@
 Guild repository for &lt;Optimal Baddies> on Thunderhorn Horde (US)
 
 ## Quick Links
-**Discord**: https://discord.gg/yNAV64
+**Discord**: [https://discord.gg/yNAV64](https://discord.gg/yNAV64)
 
-**Warcraft Logs**: https://www.warcraftlogs.com/guild/id/344984
+**Warcraft Logs**: [https://www.warcraftlogs.com/guild/id/344984](https://www.warcraftlogs.com/guild/id/344984)
 
-**Raider.io**: https://raider.io/guilds/us/thunderhorn/Optimal%20Baddies
+**Raider.io**: [https://raider.io/guilds/us/thunderhorn/Optimal%20Baddies](https://raider.io/guilds/us/thunderhorn/Optimal%20Baddies)
 
-**WoWProgress**: https://www.wowprogress.com/guild/us/thunderhorn/Optimal+Baddies
+**WoWProgress**: [https://www.wowprogress.com/guild/us/thunderhorn/Optimal+Baddies](https://www.wowprogress.com/guild/us/thunderhorn/Optimal+Baddies)
 
 ## Raider Info
 
