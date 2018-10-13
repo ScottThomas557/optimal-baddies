@@ -1,6 +1,4 @@
 # &lt;Optimal Baddies&gt;
-Guild repository for &lt;Optimal Baddies&gt; on Thunderhorn Horde (US)
-
 ## Guild Overview
 The goal of OB is to be a competitive raiding guild on the US-Blade’s Edge / US-Thunderhorn connected server.  The guild has chosen to push top tier content on a condensed 2 night raiding schedule.  This means that time on task in raids will be crucial.  The current schedule is:
 
