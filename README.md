@@ -26,8 +26,8 @@ The goal of OB is to be a competitive raiding guild on the US-Blade’s Edge / U
 * Show up with a positive attitude. We will die a lot, progression is not a cakewalk
 
 ### Raid preparation checklist
-* 40 Battle Potions
-* 2 Personal Flasks
+* 60 Battle Potions
+* 5 Personal Flasks
 * 20 Personal +55 stat food
 * 20 [Battle-Scarred Augment Rune](https://www.wowhead.com/item=160053/battle-scarred-augment-rune)
 * 1 [Vantus Rune: Uldir](https://www.wowhead.com/item=153673/vantus-rune-uldir)
@@ -51,8 +51,8 @@ Note on preparedness - The guild will provide cauldrons, feasts, and enchants. T
 OB Leadership has decided to create a Raid Lead role.  This role will be responsible for calling out pertinent raid information, providing immediate feedback, and directing players during raid. The Raid Lead will have authority during raid, deferring only to the GM.
 
 Rules for Discord:
-Use push-to-talk if you cannot keep coms clear
-Keep the line free from unneeded discussion during progression
+* Use push-to-talk if you cannot keep coms clear
+* Keep the line free from unneeded discussion during progression
 
 
 ## Guild Leadership
